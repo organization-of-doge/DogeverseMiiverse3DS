@@ -1,4 +1,4 @@
-# Miiverse patches for Aquamarine on 3DS
+# Miiverse patches for Dogeverse on 3DS
 
 To compile, you need armips, make, and flips.
 
